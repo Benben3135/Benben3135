@@ -31,6 +31,7 @@
 <img src="https://www.svgrepo.com/show/452207/framer.svg" width="50" height="50">
 <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="50" height="50">
+<img src="https://www.svgrepo.com/show/373776/light-prisma.svg" width="50" height="50">
 </div>
 
 
