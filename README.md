@@ -3,31 +3,34 @@
 <h3>Languages I Use:</h3>
 <br>
 <div>
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/html-5-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKC23J4KELCXXEBLJ2ZMJMRAA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/css3-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKRFU3KGRRSVZYGS3QZMJMRKQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/javascript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLUIOLA6P4JVP7RMSOZMJMRWA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/typescript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLMJX7Y5M3DZD3NTY2ZMJMR6Q" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/react-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPL7YGOZM5G4GWCXH2QZMJMSKQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/sass-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLFFMSG62R7UJVCAIWZMJMTEA" width="50" height="50">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/373535/css.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/349540/typescript.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/452092/react.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/349502/sass.svg" width="50" height="50">
 <h3>Tools I Use:</h3>
   </div>
 <br>
 <div>
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/node-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLHRBV54DIM65A3IXQZMJMHXA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/express-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLXOXXW5OZ5HXFJWP6ZMJMIHA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/mongo-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKL4DU6LNCSH43H37GZMJMIQQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/mysql-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLF4XCKHP4UFCZ77WMZMJMJHA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/redux-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKWOVXRV4A5SQ6FT6GZMJMJZA" width="50" height="50">
+<img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/353724/express.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/473731/mysql.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/452093/redux.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/512317/github-142.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/452210/git.svg" width="50" height="50">
+
 <h3>Frameworks/additional tools I Use:</h3>
   </div>
 <br>
 <div>
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/nextjs-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLS6YWSQW67U7JKD5CZMJMKOA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/vite-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKOKJ2O3KVTJ37GNQYZMJMKXA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/tailwind-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLDFHCCCKUFXXBXBDAZMJMLAQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/framer-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKM3NMUV5L5H3K6TPSZMJMLNA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/nextui.svg?token=GHSAT0AAAAAACKJEFPLT6AH4Y4Z5ZK33VBQZMJMQDQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/shadcnui.svg?token=GHSAT0AAAAAACKJEFPKEZX3JG7TP3YE5NXMZMJMQQA" width="50" height="50">
+<img src="https://www.svgrepo.com/show/354112/nextjs.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/374167/vite.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="50" height="50">
+<img src="https://www.svgrepo.com/show/452207/framer.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" width="50" height="50">
+<img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="50" height="50">
 </div>
 
 
