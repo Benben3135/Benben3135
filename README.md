@@ -3,12 +3,12 @@
 <h3>Languages I Use:</h3>
 <br>
 <div>
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/html-5-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKHX43KOMWPK37SCEKZMJMHGA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/css3-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLVRAGA5RFRT3AU542ZMJMFQA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/sass-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPL672TOB4SKZPEGVLIZMJMF4A" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/javascript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLPRDWHDQUTWCZNRMYZMJMGGA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/typescript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLZ4YZDL2IUHWACPFYZMJMGOQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/react-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLGSOSCWBJ2CEVIBU4ZMJMGYA" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/html-5-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKC23J4KELCXXEBLJ2ZMJMRAA" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/css3-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKRFU3KGRRSVZYGS3QZMJMRKQ" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/javascript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLUIOLA6P4JVP7RMSOZMJMRWA" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/typescript-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLMJX7Y5M3DZD3NTY2ZMJMR6Q" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/react-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPL7YGOZM5G4GWCXH2QZMJMSKQ" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/sass-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLFFMSG62R7UJVCAIWZMJMTEA" width="50" height="50">
 <h3>Tools I Use:</h3>
   </div>
 <br>
@@ -26,8 +26,8 @@
 <img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/vite-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKOKJ2O3KVTJ37GNQYZMJMKXA" width="50" height="50">
 <img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/tailwind-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPLDFHCCCKUFXXBXBDAZMJMLAQ" width="50" height="50">
 <img src="https://raw.githubusercontent.com/Benben3135/Disney-Plus-Clone/main/framer-svgrepo-com.svg?token=GHSAT0AAAAAACKJEFPKM3NMUV5L5H3K6TPSZMJMLNA" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/nextui.svg?token=GHSAT0AAAAAACKJEFPLDJTOBSMGOUG6B6PYZMJL3QQ" width="50" height="50">
-<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/shadcnui.svg?token=GHSAT0AAAAAACKJEFPLBWBHI2COWEUZVB22ZMJL36Q" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/nextui.svg?token=GHSAT0AAAAAACKJEFPLT6AH4Y4Z5ZK33VBQZMJMQDQ" width="50" height="50">
+<img src="https://raw.githubusercontent.com/Benben3135/Benjamin-Projects/main/shadcnui.svg?token=GHSAT0AAAAAACKJEFPKEZX3JG7TP3YE5NXMZMJMQQA" width="50" height="50">
 </div>
 
 
