@@ -32,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/isotipo.png" width="50" height="50">
 <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" width="50" height="50">
 <img src="https://www.svgrepo.com/show/373776/light-prisma.svg" width="50" height="50">
-<img src="https://s3-alpha.figma.com/hub/file/2815952264/7a5ebfb0-0508-48ab-be9a-31b36ba53f97-cover.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="50" height="50">
 </div>
 
 
