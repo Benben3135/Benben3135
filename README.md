@@ -15,6 +15,7 @@
 <div>
 <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/353724/express.svg" width="50" height="50">
+<img src="https://nestjs.com/img/logo-small.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/473731/mysql.svg" width="50" height="50">
 <img src="https://www.svgrepo.com/show/452093/redux.svg" width="50" height="50">
