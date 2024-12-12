@@ -1,0 +1,20 @@
+repo_name: Benben3135/Benben3135
+report_id: 3f75b214a3b307bb390bf63de893b094
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-23T14:05:39+00:00'
+requested_by: Benben3135
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Benben3135/Benben3135
+  detection_source: Repo Metadata
